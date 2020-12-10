@@ -1,0 +1,172 @@
+
+
+	  <!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7 oldie" lang="en"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="ie7 oldie" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="ie8 oldie" lang="en"><![endif]-->
+<!--[if (IE 9)&!(IEMobile)]><html class="ie9" lang="en"><![endif]-->
+<!--[[if (gt IE 9)|(gt IEMobile 7)]><!--><html lang="en"><!--<![endif]-->
+<!--
+ * UBC CLF (Common Look and Feel) v7.0.2
+ * Copyright 2012 The University of British Columbia
+ * UBC Communications and Marketing
+ * http://brand.ubc.ca/clf
+ */
+-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<title> People | UBC's Okanagan campus </title>
+<meta name="viewport" content="width=device-width">
+<meta name="description" content="People | UBC's Okanagan campus">
+<meta name="author" content="IT, Media & Classroom Services | The University of British Columbia">
+<!-- Stylesheets -->
+<link href="https://cdn.ubc.ca/clf/7.0.2/css/ubc-clf-full.min.css" rel="stylesheet">
+<link href="css/unit.css" rel="stylesheet">
+<!--[if lte IE 7]>
+<link href="https://cdn.ubc.ca/clf/7.0.2/css/font-awesome-ie7.css" rel="stylesheet">
+<![endif]-->
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+  <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- Fav and touch icons -->
+<link rel="shortcut icon" href="https://cdn.ubc.ca/clf/7.0.2/img/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://cdn.ubc.ca/clf/7.0.2/img/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdn.ubc.ca/clf/7.0.2/img/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdn.ubc.ca/clf/7.0.2/img/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="https://cdn.ubc.ca/clf/7.0.2/img/apple-touch-icon-57-precomposed.png">
+
+<!-- OPTIONAL: Include Website Statistics Package -->
+
+</head>
+<body>
+    <div class="container">
+        <!-- UBC Global Utility Menu -->
+        <div class="collapse expand" id="ubc7-global-menu">
+            <div id="ubc7-search" class="expand">
+                <div id="ubc7-search-box">
+                    <form class="form-search" method="get" action="http://www.ubc.ca/search/okanagan/index.html" role="search">
+                        <input type="text" name="q" placeholder="Search UBC's Okanagan campus" class="input-xlarge search-query">
+                        <button type="submit" class="btn">Search</button>
+                    </form>
+                </div>
+            </div>
+            <div id="ubc7-global-header" class="expand">
+                <!-- Global Utility Header from CDN -->
+            </div>
+        </div>
+        <!-- End of UBC Global Utility Menu -->
+        <!-- UBC Header -->
+        <header id="ubc7-header" class="row-fluid expand" role="banner">
+            <div class="span1">
+                <div id="ubc7-logo">
+                    <a href="http://www.ubc.ca" title="The University of British Columbia (UBC)">The University of British Columbia</a>
+                </div>
+            </div>
+            <div class="span2">
+                <div id="ubc7-apom">
+                    <a href="https://cdn.ubc.ca/clf/ref/aplaceofmind" title="UBC a place of mind">UBC - A Place of Mind</a>                        
+                </div>
+            </div>
+            <div class="span9" id="ubc7-wordmark-block">
+                <div id="ubc7-wordmark">
+                    <a href="http://ok.ubc.ca/welcome.html" title="The University of British Columbia (UBC)">The University of British Columbia <span class="ubc7-campus" id="ubc7-okanagan-campus">Okanagan campus</span></a>
+                </div>
+                <div id="ubc7-global-utility">
+                    <button type="button" data-toggle="collapse" data-target="#ubc7-global-menu"><span>UBC Search</span></button>
+                    <noscript><a id="ubc7-global-utility-no-script" href="http://www.ubc.ca/" title="UBC Search">UBC Search</a></noscript>
+                </div>
+            </div>
+        </header>
+        <!-- End of UBC Header -->
+        <!-- UBC Unit Identifier -->
+        <div id="ubc7-unit" class="row-fluid expand">
+            <div class="span12">
+			
+				<!-- Mobile Menu Icon -->
+                <div class="navbar">
+                    <a class="btn btn-navbar" data-toggle="collapse" data-target="#ubc7-unit-navigation">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </a>
+                </div>
+			
+                <!-- Read more about Unit Name Treatment on http://brand.ubc.ca/clf -->		
+				<div id="ubc7-unit-name" class="ubc7-single-element">
+                    <a href="https://people.ok.ubc.ca" title="People Server"><span id="ubc7-unit-identifier">People Server</span></a>
+                </div>
+            </div>
+        </div>
+        <!-- End of UBC Unit Identifier -->
+
+        <!-- Content Area -->
+        <div class="content expand row-fluid" role="main">
+   
+ 
+	
+	<section id="top-content">
+	<div class="content expand row-fluid">
+		<div class="span12">
+			<div class="alert alert-info" style="margin-top:15px;"><h3>Disclaimer</h3><p>Content on the People Server at UBC's Okanagan campus is uploaded by individual Okanagan campus staff and faculty members.  Primarily personal in nature, this content is not governed or reviewed by any central UBC authority and, as such, should not be taken as the opinion or policy of The University of British Columbia.<br/><br/>Sole responsibility for any content lies with the individual who uploaded it.</p>
+			<p><a href="http://it.ok.ubc.ca/service-catalogue/publishing-hosting/personal.html"><b>Learn more about personal webspace</b></a> | <a href="http://it.ok.ubc.ca/service-catalogue/publishing-hosting/personal.html#toc-desc">Add a Description or Hide your Listing</a></p></div>
+			<h2>Table Of Contents</h2>
+		</div>
+    </div>
+	</section><!-- END top-content-->
+	
+	<section id="table-of-contents">
+	<div class="content expand row-fluid">
+		<div class="span12"><div class="span4"><ul style="margin-bottom:0px;"><li><a href="aalcanta">aalcanta</a></li><li><a href="abdalmoh">abdalmoh</a> &mdash; Abdallah Mohamed, Computer Science</li><li><a href="achaab01">achaab01</a></li><li><a href="acis">acis</a></li><li><a href="adamwei">adamwei</a></li><li><a href="adulic">adulic</a></li><li><a href="aeisenba">aeisenba</a></li><li><a href="aheck">aheck</a> &mdash; Aaron Heck, ITServices
+</li><li><a href="alisward">alisward</a></li><li><a href="amilani">amilani</a></li><li><a href="anaray02">anaray02</a> &mdash; Apurva Narayan, Computer Science</li><li><a href="andislab">andislab</a></li><li><a href="apranjan">apranjan</a></li><li><a href="arteil">arteil</a></li><li><a href="ashill01">ashill01</a></li><li><a href="ashyoung">ashyoung</a></li><li><a href="aspies">aspies</a></li><li><a href="awpaeth">awpaeth</a></li><li><a href="barbhunt">barbhunt</a></li><li><a href="barsobol">barsobol</a></li><li><a href="bauschke">bauschke</a></li><li><a href="benilson">benilson</a></li><li><a href="bilatta">bilatta</a></li><li><a href="bjarman">bjarman</a></li><li><a href="blake719">blake719</a></li><li><a href="blalonde">blalonde</a></li><li><a href="bowenhui">bowenhui</a></li><li><a href="brharder">brharder</a></li><li><a href="brioconn">brioconn</a></li><li><a href="bruyoung">bruyoung</a></li><li><a href="bsasadminics">bsasadminics</a></li><li><a href="bud">bud</a></li><li><a href="camellon">camellon</a></li><li><a href="campusplanning">campusplanning</a></li><li><a href="ccrompt">ccrompt</a></li><li><a href="cfeng01">cfeng01</a> &mdash; Personal Website of Chen Feng</li><li><a href="cguenard">cguenard</a></li><li><a href="chawkins">chawkins</a></li><li><a href="chbowerm">chbowerm</a></li><li><a href="cibourne">cibourne</a></li><li><a href="cldesmar">cldesmar</a></li><li><a href="cmcfar01">cmcfar01</a></li><li><a href="cnichol">cnichol</a></li><li><a href="corbett">corbett</a></li><li><a href="cormlocal">cormlocal</a></li><li><a href="creative">creative</a></li><li><a href="crobinso">crobinso</a></li><li><a href="cschreye">cschreye</a></li><li><a href="csresearchnews">csresearchnews</a></li><li><a href="cstother">cstother</a></li><li><a href="ctompkin">ctompkin</a></li><li><a href="cwatso01">cwatso01</a> &mdash; A people page on UBC.ca
+</li><li><a href="dang82">dang82</a></li><li><a href="danthor">danthor</a></li><li><a href="davwalla">davwalla</a></li><li><a href="debcarte">debcarte</a></li><li><a href="deburgos">deburgos</a></li><li><a href="degibson">degibson</a></li><li><a href="demissie">demissie</a></li><li><a href="deoljenn">deoljenn</a></li><li><a href="derobert">derobert</a></li><li><a href="dibartel">dibartel</a></li><li><a href="dilabio">dilabio</a></li><li><a href="dkenney">dkenney</a></li><li><a href="dkeyes">dkeyes</a></li><li><a href="dlamhonw">dlamhonw</a></li><li><a href="dmonnet">dmonnet</a></li><li><a href="drichert">drichert</a></li><li><a href="dryder">dryder</a></li><li><a href="dsediako">dsediako</a></li><li><a href="dumanoir">dumanoir</a></li><li><a href="eliander">eliander</a></li><li><a href="erosolo">erosolo</a></li><li><a href="faculty">faculty</a></li><li><a href="fccs">fccs</a></li><li><a href="fcyanez">fcyanez</a></li><li><a href="fhelfand">fhelfand</a></li><li><a href="gasarbit">gasarbit</a></li><li><a href="ggrinnel">ggrinnel</a></li></ul></div><div class="span4"><ul style="margin-bottom:0px;"><li><a href="giddante">giddante</a></li><li><a href="gmondal">gmondal</a></li><li><a href="gpandher">gpandher</a></li><li><a href="gpoitras">gpoitras</a></li><li><a href="grantmat">grantmat</a></li><li><a href="guarasci">guarasci</a></li><li><a href="hapassmo">hapassmo</a></li><li><a href="hironaka">hironaka</a></li><li><a href="holmesn">holmesn</a></li><li><a href="hsemeniu">hsemeniu</a></li><li><a href="iastuart">iastuart</a></li><li><a href="isaacli">isaacli</a></li><li><a href="itilstra">itilstra</a></li><li><a href="ivrbik">ivrbik</a></li><li><a href="iwalker">iwalker</a></li><li><a href="jambail">jambail</a></li><li><a href="jamedwar">jamedwar</a></li><li><a href="janke9">janke9</a></li><li><a href="jbobowsk">jbobowsk</a></li><li><a href="jbongnea">jbongnea</a></li><li><a href="jbrahney">jbrahney</a></li><li><a href="jbrinker">jbrinker</a></li><li><a href="jcheng">jcheng</a></li><li><a href="jcurtis">jcurtis</a></li><li><a href="jdgreeno">jdgreeno</a></li><li><a href="jefferes">jefferes</a></li><li><a href="jenkerr">jenkerr</a></li><li><a href="jetanner">jetanner</a></li><li><a href="jhirtz">jhirtz</a></li><li><a href="jholzman">jholzman</a></li><li><a href="jimjohns">jimjohns</a></li><li><a href="jjanmaat">jjanmaat</a></li><li><a href="jmackenz">jmackenz</a></li><li><a href="jnastos">jnastos</a></li><li><a href="jodeycas">jodeycas</a></li><li><a href="jogervai">jogervai</a></li><li><a href="johnklir">johnklir</a></li><li><a href="johparry">johparry</a></li><li><a href="jones123">jones123</a></li><li><a href="jonesmel">jonesmel</a></li><li><a href="jowagner">jowagner</a></li><li><a href="jpither">jpither</a></li><li><a href="jshaji">jshaji</a></li><li><a href="jtavakol">jtavakol</a></li><li><a href="jthiess">jthiess</a></li><li><a href="judygill">judygill</a></li><li><a href="karperry">karperry</a></li><li><a href="keekyoun">keekyoun</a></li><li><a href="kennchau">kennchau</a></li><li><a href="knezevic">knezevic</a></li><li><a href="kschupp">kschupp</a></li><li><a href="kyonyoon">kyonyoon</a></li><li><a href="lbichler">lbichler</a></li><li><a href="leaisaak">leaisaak</a></li><li><a href="leataken">leataken</a></li><li><a href="lgabora">lgabora</a></li><li><a href="lwinger">lwinger</a></li><li><a href="lymcpher">lymcpher</a></li><li><a href="machardy">machardy</a></li><li><a href="malpetch">malpetch</a></li><li><a href="maudavid">maudavid</a></li><li><a href="mayaches">mayaches</a></li><li><a href="mberger">mberger</a></li><li><a href="mbezabeh">mbezabeh</a></li><li><a href="mcraemus">mcraemus</a></li><li><a href="mfranson">mfranson</a></li><li><a href="mgregoir">mgregoir</a></li><li><a href="mhoorfar">mhoorfar</a></li><li><a href="michdeyh">michdeyh</a></li><li><a href="michias">michias</a></li><li><a href="mirahart">mirahart</a></li><li><a href="mirussel">mirussel</a></li><li><a href="mjavdani">mjavdani</a></li><li><a href="mkhasan">mkhasan</a></li><li><a href="mrheault">mrheault</a></li><li><a href="mthorogo">mthorogo</a></li><li><a href="mvsmith">mvsmith</a></li><li><a href="naingram">naingram</a></li><li><a href="najjaran">najjaran</a></li></ul></div><div class="span4"><ul style="margin-bottom:0px;"><li><a href="nasbliss">nasbliss</a></li><li><a href="nblackwe">nblackwe</a></li><li><a href="necadger">necadger</a></li><li><a href="npeleato">npeleato</a></li><li><a href="nskolski">nskolski</a></li><li><a href="nswart">nswart</a></li><li><a href="parthur">parthur</a></li><li><a href="patmarck">patmarck</a></li><li><a href="patri">patri</a></li><li><a href="pattwell">pattwell</a></li><li><a href="pauldavi">pauldavi</a></li><li><a href="paumarck">paumarck</a></li><li><a href="pgill">pgill</a></li><li><a href="phohmann">phohmann</a></li><li><a href="plevinse">plevinse</a></li><li><a href="pphillips">pphillips</a></li><li><a href="pshipley">pshipley</a></li><li><a href="publicaffairs">publicaffairs</a></li><li><a href="pwohlgem">pwohlgem</a></li><li><a href="radl">radl</a></li><li><a href="raqumann">raqumann</a></li><li><a href="rducklow">rducklow</a></li><li><a href="reidsd">reidsd</a></li><li><a href="rjneilly">rjneilly</a></li><li><a href="rklukas">rklukas</a></li><li><a href="rlawrenc">rlawrenc</a> &mdash; Ramon Lawrence, Computer Science</li><li><a href="rlievers">rlievers</a></li><li><a href="robrien">robrien</a></li><li><a href="rpannell">rpannell</a></li><li><a href="rrajapak">rrajapak</a></li><li><a href="rseethal">rseethal</a></li><li><a href="rtruscot">rtruscot</a></li><li><a href="rtyson">rtyson</a></li><li><a href="scstang">scstang</a></li><li><a href="sdesjard">sdesjard</a></li><li><a href="sesterby">sesterby</a></li><li><a href="sfazacke">sfazacke</a></li><li><a href="sgolchi">sgolchi</a></li><li><a href="shahria">shahria</a></li><li><a href="shawnwan">shawnwan</a></li><li><a href="shillock">shillock</a></li><li><a href="smahmoud">smahmoud</a></li><li><a href="smanuel">smanuel</a></li><li><a href="smecklen">smecklen</a></li><li><a href="smreza">smreza</a></li><li><a href="smrosco">smrosco</a></li><li><a href="soddleif">soddleif</a></li><li><a href="ssmith07">ssmith07</a></li><li><a href="steev">steev</a></li><li><a href="stesfama">stesfama</a></li><li><a href="stfoster">stfoster</a></li><li><a href="stporter">stporter</a></li><li><a href="sumonrh">sumonrh</a></li><li><a href="tanmack1">tanmack1</a></li><li><a href="tdemerse">tdemerse</a></li><li><a href="tdickson">tdickson</a></li><li><a href="tomveloz">tomveloz</a></li><li><a href="tpauls01">tpauls01</a></li><li><a href="treodlum">treodlum</a></li><li><a href="triggse">triggse</a></li><li><a href="twilso02">twilso02</a></li><li><a href="tzimmerm">tzimmerm</a></li><li><a href="ungurean">ungurean</a></li><li><a href="vdunbar">vdunbar</a></li><li><a href="viskumar">viskumar</a></li><li><a href="warrhare">warrhare</a></li><li><a href="waynebro">waynebro</a></li><li><a href="wiestone">wiestone</a></li><li><a href="williambates">williambates</a></li><li><a href="wpineau">wpineau</a></li><li><a href="wrotzien">wrotzien</a></li><li><a href="wsmcneil">wsmcneil</a></li><li><a href="xiajin">xiajin</a></li><li><a href="yangcao">yangcao</a> &mdash; Personal Website</li><li><a href="ylucet">ylucet</a> &mdash; Yves Lucet, Computer Science</li><li><a href="yongg">yongg</a></li><li><a href="yyong01">yyong01</a></li><li><a href="zliu">zliu</a></li></ul></div></div></div><!-- Blank Row --><div class="content expand"><div class="span12">&nbsp;</div></div><!-- END Blank Row --></section><!-- END table-of-contents--></div><!-- End of Content Area -->
+        <footer id="ubc7-footer" class="expand" role="contentinfo">
+            <div class="row-fluid expand" id="ubc7-unit-footer">
+                <div class="span10" id="ubc7-unit-address">
+                    <!--<div id="ubc7-address-unit-name">The University of British Columbia</div>-->
+                    <div id="ubc7-address-campus"><b>Okanagan Campus</b></div>
+                    <div id="ubc7-address-street">3333 University Way</div>
+                    <div id="ubc7-address-location">
+                        <span id="ubc7-address-city">Kelowna</span>, <span id="ubc7-address-province" title="British Columbia">BC</span> <span id="ubc7-address-country">Canada</span> <span id="ubc7-address-postal">V1V 1V7</span>
+                    </div>
+                    <div id="ubc7-address-phone">Tel 250 807 8000</div>
+          <!--      <div id="ubc7-address-email">E-mail email@ubc.ca</div> -->
+                </div>
+                <div class="span2">
+                    <strong>Find us on</strong>
+                    <div id="ubc7-unit-social-icons">
+                        <a target="_blank" href="http://www.facebook.com/youbc" title="Facebook icon"><i class="icon-facebook-sign"></i></a>&nbsp;
+                        <a target="_blank" href="https://twitter.com/youbc" title="Twitter icon"><i class="icon-twitter-sign"></i></a>&nbsp;
+                        <a target="_blank" href="https://news.ok.ubc.ca" title="Wordpress icon"><i class="icon-wordpress"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid expand ubc7-back-to-top">
+                <div class="span2">
+                    <a href="#" title="Back to top">Back to top <div class="ubc7-arrow up-arrow grey"></div></a>
+                </div>
+            </div>
+            <div class="row-fluid expand" id="ubc7-global-footer">
+                <div class="span5" id="ubc7-signature"><a href="http://www.ubc.ca/" title="The University of British Columbia (UBC)">The University of British Columbia</a></div>
+                <div class="span7" id="ubc7-footer-menu">
+                </div>
+            </div>
+            <div class="row-fluid expand" id="ubc7-minimal-footer">
+                <div class="span12">
+                    <ul>
+                        <li><a href="https://cdn.ubc.ca/clf/ref/emergency" title="Emergency Procedures">Emergency Procedures</a> <span class="divider">|</span></li>
+                        <li><a href="https://cdn.ubc.ca/clf/ref/terms" title="Terms of Use">Terms of Use</a> <span class="divider">|</span></li>
+                        <li><a href="https://cdn.ubc.ca/clf/ref/copyright" title="UBC Copyright">Copyright</a> <span class="divider">|</span></li>
+                        <li><a href="https://cdn.ubc.ca/clf/ref/accessibility" title="Accessibility">Accessibility</a></li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+    </div> <!-- /container -->
+    <!-- Placed javascript at the end for faster loading -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+    <script src="https://cdn.ubc.ca/clf/7.0.2/js/ubc-clf.min.js"></script>
+</body>
+</html>

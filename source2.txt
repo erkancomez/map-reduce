@@ -1,0 +1,391 @@
+
+<!doctype html>
+<html lang="tr" class="no-js one-page-layout" data-classic-layout="false" data-mobile-classic-layout="true" data-prev-animation="16" data-next-animation="15" data-random-animation="true">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title> Home | Semih Yumuşak </title>
+<!-- This site is optimized with the Yoast SEO plugin v12.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.semihyumusak.com.tr/" />
+<meta property="og:locale" content="tr_TR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home | Semih Yumuşak" />
+<meta property="og:description" content="Hi, I am Semih I am" />
+<meta property="og:url" content="https://www.semihyumusak.com.tr/" />
+<meta property="og:site_name" content="Semih Yumuşak" />
+<meta property="og:image" content="https://www.semihyumusak.com.tr/wp-content/uploads/2015/06/s-320fd84fffb8d07f123fc8ea0a677087d29f1cc3-kopya.jpg" />
+<meta property="og:image:secure_url" content="https://www.semihyumusak.com.tr/wp-content/uploads/2015/06/s-320fd84fffb8d07f123fc8ea0a677087d29f1cc3-kopya.jpg" />
+<meta property="og:image:width" content="1600" />
+<meta property="og:image:height" content="1072" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Hi, I am Semih I am" />
+<meta name="twitter:title" content="Home | Semih Yumuşak" />
+<meta name="twitter:site" content="@semihyumusak" />
+<meta name="twitter:image" content="https://www.semihyumusak.com.tr/wp-content/uploads/2015/06/s-320fd84fffb8d07f123fc8ea0a677087d29f1cc3-kopya.jpg" />
+<meta name="twitter:creator" content="@semihyumusak" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.semihyumusak.com.tr/#website","url":"https://www.semihyumusak.com.tr/","name":"Semih Yumu\u015fak","publisher":{"@id":"https://www.semihyumusak.com.tr/#/schema/person/"},"potentialAction":{"@type":"SearchAction","target":"https://www.semihyumusak.com.tr/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.semihyumusak.com.tr/#primaryimage","url":"https://www.semihyumusak.com.tr/wp-content/uploads/2015/06/s-320fd84fffb8d07f123fc8ea0a677087d29f1cc3-kopya.jpg","width":1600,"height":1072},{"@type":"WebPage","@id":"https://www.semihyumusak.com.tr/#webpage","url":"https://www.semihyumusak.com.tr/","inLanguage":"tr","name":"Home | Semih Yumu\u015fak","isPartOf":{"@id":"https://www.semihyumusak.com.tr/#website"},"about":{"@id":"https://www.semihyumusak.com.tr/#/schema/person/"},"primaryImageOfPage":{"@id":"https://www.semihyumusak.com.tr/#primaryimage"},"datePublished":"2015-06-23T14:46:17+03:00","dateModified":"2018-10-31T11:45:35+03:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Semih Yumuşak &raquo; beslemesi" href="https://www.semihyumusak.com.tr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Semih Yumuşak &raquo; yorum beslemesi" href="https://www.semihyumusak.com.tr/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.semihyumusak.com.tr\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3"}};
+!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='https://www.semihyumusak.com.tr/wp-includes/css/dist/block-library/style.min.css?ver=5.3' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.semihyumusak.com.tr/wp-content/cache/wpfc-minified/g11646yd/452rh.css" media="all"/>
+<link rel='stylesheet' id='montserrat-css'  href='//fonts.googleapis.com/css?family=Montserrat:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='roboto-css'  href='//fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='bootstrap-css'  href='https://www.semihyumusak.com.tr/wp-content/themes/empathy/css/bootstrap.min.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='pe-icon-7-stroke-css'  href='https://www.semihyumusak.com.tr/wp-content/themes/empathy/css/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='fontello-css'  href='https://www.semihyumusak.com.tr/wp-content/themes/empathy/css/fonts/fontello/css/fontello.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='nprogress-css'  href='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/nprogress/nprogress.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='magnific-popup-css'  href='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/jquery.magnific-popup/magnific-popup.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='uniform-css'  href='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/jquery.uniform/uniform.default.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='animations-css'  href='https://www.semihyumusak.com.tr/wp-content/themes/empathy/css/animations.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='main-css'  href='https://www.semihyumusak.com.tr/wp-content/themes/empathy/css/main.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='768-css'  href='https://www.semihyumusak.com.tr/wp-content/themes/empathy/css/768.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-fix-css'  href='https://www.semihyumusak.com.tr/wp-content/themes/empathy/css/wp-fix.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='theme-style-css'  href='https://www.semihyumusak.com.tr/wp-content/themes/empathy/style.css' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.semihyumusak.com.tr/wp-content/cache/wpfc-minified/77cughnf/452rh.css" media="all"/>
+<script src='//www.semihyumusak.com.tr/wp-content/cache/wpfc-minified/70bkz4ff/452rh.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script> -->
+<!-- <script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> -->
+<!-- <script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/modernizr.min.js'></script> -->
+<link rel='https://api.w.org/' href='https://www.semihyumusak.com.tr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.semihyumusak.com.tr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.semihyumusak.com.tr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3" />
+<link rel='shortlink' href='https://www.semihyumusak.com.tr/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.semihyumusak.com.tr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.semihyumusak.com.tr%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.semihyumusak.com.tr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.semihyumusak.com.tr%2F&#038;format=xml" />
+<!-- 1. Page Light Text -->
+<script>
+jQuery(document).ready(function($)
+{
+$( '.one-page-layout .site-main > section:nth-of-type(1)' ).toggleClass( 'light-text' );
+});
+</script>
+<!-- 5. Page Light Text -->
+<script>
+jQuery(document).ready(function($)
+{
+$( '.one-page-layout .site-main > section:nth-of-type(5)' ).toggleClass( 'light-text' );
+});
+</script>
+<!-- 6. Page Light Text -->
+<script>
+jQuery(document).ready(function($)
+{
+$( '.one-page-layout .site-main > section:nth-of-type(6)' ).toggleClass( 'light-text' );
+});
+</script>
+<!--[if lt IE 9]>
+<script src="https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/ie.js"></script>
+<![endif]-->
+</head>
+<body data-rsssl=1 class="home page-template page-template-template-homepage page-template-template-homepage-php page page-id-185">
+<div id="page" class="hfeed site">
+<header id="masthead" class="header" role="banner">
+<a class="menu-toggle toggle-link"></a>
+<h1 class="site-title mobile-title">Semih Yumuşak</h1>
+<div class="header-wrap">
+<img alt="Semih Yumuşak" src="https://www.semihyumusak.com.tr/wp-content/uploads/2017/03/RMdzQVm8_400x400.jpeg">
+<h1 class="site-title">Semih Yumuşak</h1>
+<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+<div class="nav-menu">
+<ul class="menu-auto">
+</ul>
+<script>
+jQuery(document).ready(function($)
+{
+var menu_html = "";
+$('#main').find('section').each(function()
+{
+var id = $(this).attr('id');
+var icon = $(this).find('.page-title  i').attr('class');
+var title = $(this).find('.page-title').text();
+var menu_item = '<li><a href="#/' + id + '"><i class="' + icon + '"></i>' + title + '</a></li>';
+menu_html += menu_item;
+$('.menu-auto').html(menu_html);
+});
+});
+</script>
+</div>
+</nav>
+<div class="header-search">
+<form role="search" id="search-form" method="get" action="https://www.semihyumusak.com.tr/">
+<input type="text" id="search" name="s" required="required" placeholder="enter word">
+<input type="submit" id="search-submit" title="Search" value="&#8594;">
+</form>
+</div>
+</div>
+</header>
+<div id="main" class="site-main">
+<section id="home" class="pt-page page-layout home-section has-bg-img" style="background-image: url( https://www.semihyumusak.com.tr/wp-content/uploads/2015/06/s-320fd84fffb8d07f123fc8ea0a677087d29f1cc3-kopya.jpg );">
+<div class="content">
+<div class="layout-medium">
+<h1 class="page-title" style="display: none;">
+<i class="pe-7s-home"></i>
+Home													</h1>
+<h4>Hi, I am</h4>
+<h2>Semih</h2>
+<h4>I am <strong id="typist-element" data-typist="software consultant,linked data analyst,lecturer.">semantic web expert</strong></h4>
+</div>
+</div>
+</section>
+<section id="resume" class="pt-page page-layout ">
+<div class="content">
+<div class="layout-medium">
+<h1 class="page-title">
+<i class="pe-7s-id"></i>
+Resume													</h1>
+<div class="row">
+<div class="col-sm-7">
+<div class="event">
+<h2>WORK HISTORY</h2>
+<p><i class="pe-7s-ribbon"></i>
+</div>
+<div class="event">
+<h3>February 2013 &#8211; Current</h3>
+<h4>Lecturer</h4>
+<h5>KTO Karatay University</h5>
+</div>
+<div class="event">
+<h3>January 2016-September 2016</h3>
+<h4>Visiting Researcher</h4>
+<h5>Insight Research Centre for Data Analytics,Galway<br />
+(In collaboration with Fujitsu Labs)</h5>
+</div>
+<div class="event">
+<h3>September 2011-January 2013</h3>
+<h4>Research&#038;Teaching Assistant</h4>
+<h5>KTO Karatay University</h5>
+</div>
+<div class="event">
+<h3>February 2009-July 2011 </h3>
+<h4>R&#038;D Manager/Shareholder</h4>
+<h5>Semisoft Software Systems</h5>
+</div>
+<div class="event">
+<h3>June 2007-August 2008</h3>
+<h4>Software Development Manager</h4>
+<h5>Aytel Elektronik</h5>
+</div>
+<div class="event">
+<h3>Sept 2005-Dec 2007</h3>
+<h4>Software Development Engineer</h4>
+<h5>Sampas Computer Systems A.S</h5>
+</div>
+<div class="event">
+<h3>May &#8211; Sept. 2005 </h3>
+<h4>Part-Time System Expert</h4>
+<h5>Rotary Club District 2420</h5>
+</div>
+<div class="event">
+<h2>EDUCATION</h2>
+<p><i class="pe-7s-study"></i>
+</div>
+<div class="event">
+<h3>2011 &#8211; </h3>
+<h4>Computer Engineering PhD</h4>
+<h5>Selcuk University</h5>
+</div>
+<div class="event">
+<h3>2016/01-09</h3>
+<h4>Galway PhD Visiting Student</h4>
+<h5>National University of Ireland</h5>
+</div>
+<div class="event">
+<h3>2005-2008</h3>
+<h4>Master of Business Administration (MBA)</h4>
+<h5>Istanbul Bilgi University</h5>
+</div>
+<div class="event">
+<h3>2000-2005</h3>
+<h4>Computer Engineering (Full Scholarship)</h4>
+<h5>Koc University</h5>
+</div>
+<div class="event">
+<h3>1997-2000</h3>
+<h4>High School</h4>
+<h5>Adana Science High School</h5>
+</div>
+<div class="event">
+<h3>1993-1997</h3>
+<h4>High School</h4>
+<h5>ATO Anatolian High School</h5>
+</div>
+<p><a class="button " href="#"><i class="pe-7s-download"></i>Download CV</a>
+</div>
+<div class="col-sm-5">
+<div class="section-title center">
+<h2><i>Programming Languages</i></h2>
+</div>
+<div class="skill-unit">
+<h4>C#</h4>
+<div class="bar" data-percent="100">
+<div class="progress"></div>
+</div>
+</div>
+<div class="skill-unit">
+<h4>Asp.Net</h4>
+<div class="bar" data-percent="100">
+<div class="progress"></div>
+</div>
+</div>
+<div class="skill-unit">
+<h4>Java</h4>
+<div class="bar" data-percent="100">
+<div class="progress"></div>
+</div>
+</div>
+<div class="skill-unit">
+<h4>Assembly </h4>
+<div class="bar" data-percent="100">
+<div class="progress"></div>
+</div>
+</div>
+<div class="skill-unit">
+<h4>Visual Basic .Net </h4>
+<div class="bar" data-percent="100">
+<div class="progress"></div>
+</div>
+</div>
+<div class="skill-unit">
+<h4>SQL </h4>
+<div class="bar" data-percent="100">
+<div class="progress"></div>
+</div>
+</div>
+<div class="skill-unit">
+<h4>C </h4>
+<div class="bar" data-percent="100">
+<div class="progress"></div>
+</div>
+</div>
+<div class="section-title center">
+<h2><i>Software</i></h2>
+</div>
+<div class="skill-unit">
+<h4>MS Visual Studio .Net 2013</h4>
+<div class="bar" data-percent="100">
+<div class="progress"></div>
+</div>
+</div>
+<div class="skill-unit">
+<h4>MS SQL Server 2014</h4>
+<div class="bar" data-percent="100">
+<div class="progress"></div>
+</div>
+</div>
+<div class="skill-unit">
+<h4>NetBeans 8.0</h4>
+<div class="bar" data-percent="100">
+<div class="progress"></div>
+</div>
+</div>
+<div class="skill-unit">
+<h4>Virtuoso Universal Server</h4>
+<div class="bar" data-percent="100">
+<div class="progress"></div>
+</div>
+</div>
+<div class="skill-unit">
+<h4>Apache Fuseki Server</h4>
+<div class="bar" data-percent="100">
+<div class="progress"></div>
+</div>
+</div>
+<div class="skill-unit">
+<h4>MySQL Workbench</h4>
+<div class="bar" data-percent="100">
+<div class="progress"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="contact" class="pt-page page-layout ">
+<div class="content">
+<div class="layout-medium">
+<h1 class="page-title">
+<i class="pe-7s-call"></i>
+Contact													</h1>
+<div class="section-title center">
+<h2><i>Let&#8217;s Socialize</i></h2>
+</div>
+<ul class="social">
+<li><a target="_blank" class="facebook" href="https://m.facebook.com/profile.php?id=723098221"></a></li>
+<li><a target="_blank" class="twitter" href="https://twitter.com/semihyumusak"></a></li>
+<li><a target="_blank" class="linkedin" href="https://tr.linkedin.com/in/semih-yumusak-163a7385"></a></li>
+<li><a target="_blank" class="github" href="https://github.com/semihyumusak"></a></li>
+<li><a target="_blank" class="google-plus" href="https://plus.google.com/115809456859473853766"></a></li>
+</ul>
+<div class="row">
+<div class="col-sm-3 col-xs-6">
+</div>
+</div>
+<div class="section-title center">
+<h2><i>Drop Me A Line</i></h2>
+</div>
+<div class="contact-form">
+<form id="contact-form" method="post" action="https://www.semihyumusak.com.tr/wp-content/themes/empathy/send-mail.php">
+<p><label for="name">NAME</label><input type="text" id="name" name="name" class="required"></p>
+<p><label for="email">EMAIL</label><input type="text" id="email" name="email" class="required email"></p>
+<p class="antispam"><label for="url">Leave this empty</label><input type="text" id="url" name="url"></p>
+<p><label for="message">MESSAGE</label><textarea id="message" name="message" class="required"></textarea></p>
+<p style="padding: 0px; margin: 0px;"><input type="hidden" id="sender_domain" name="sender_domain" value="server@semihyumusak.com.tr"></p>
+<p style="padding: 0px; margin: 0px;"><input type="hidden" id="subject" name="subject" value="Contact form message from semihyumusak.com.tr"></p>
+<p><input type="submit" class="submit button primary" value="SEND"></p>
+</form>
+</div>
+<div class="map">
+<div id="map-canvas" class="map-canvas" data-latitude="37.8786945" data-longitude="32.3663997" data-zoom="6" data-marker-image=""></div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<!-- PORTFOLIO SINGLE AJAX CONTENT CONTAINER -->
+<div class="p-overlay"></div>
+<div class="p-overlay"></div>
+<!-- ALERT: used for contact form mail delivery alert -->
+<div class="site-alert animated"></div>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/jquery.address-1.5.min.js'></script>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/nprogress/nprogress.js'></script>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/fastclick.js'></script>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/typist.js'></script>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/jquery.isotope.min.js'></script>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/jquery.fitvids.js'></script>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/jquery.validate.min.js'></script>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/jquery.uniform/jquery.uniform.min.js'></script>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/jquery.magnific-popup/jquery.magnific-popup.min.js'></script>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/socialstream.jquery.js'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?key=AIzaSyBcblAuItDEeCHlj5bGdLAeiv4drspBvH4'></script>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/main.js'></script>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-content/themes/empathy/js/wp-fix.js'></script>
+<script type='text/javascript' src='https://www.semihyumusak.com.tr/wp-includes/js/wp-embed.min.js?ver=5.3'></script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.39777898788452 seconds, on 25-11-19 5:48:15 -->

@@ -1,0 +1,329 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/Content/css?v=LV6fkedUBCvEiDf6qJvfa77YsvkMFmeNK4AHp1l7SKg1" rel="stylesheet"/>
+<title> TOGG - TOGG </title>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-146377662-1"></script>
+<script>
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() { dataLayer.push(arguments); }
+
+    gtag('js', new Date());
+
+
+
+    gtag('config', 'UA-146377662-1');
+
+</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-type">
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+<meta content="YwOM5w1bPuplFG-0XX5dco0Fb9PEJIxw9NyPQgoQo3Y" name="google-site-verification">
+<meta content="2 Days" name="Revisit-After"/>
+<meta content="Follow, Index" name="Robots"/>
+<meta content="Follow, Index" name="Googlebot"/>
+<meta content="Global" name="Distribution"/>
+<meta content="Türkçe (Türkiye)" name="Language"/>
+<meta content="http://www.togg.com.tr/" name="Identifier-URL"/>
+<meta content="http://www.togg.com.tr/" name="og:url"/>
+<meta content="TOGG" name="og:title"/>
+<meta content="" name="og:description"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="http://www.togg.com.tr/" name="twitter:url"/>
+<meta content="TOGG" name="twitter:title">
+<meta content="" name="twitter:description">
+<link rel="publisher"/>
+<link href="http://www.togg.com.tr/" rel="canonical"/>
+<link href="/Content/images/fav/favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/>
+<link href="/Content/images/fav/favicon-32x32.png" rel="icon" type="image/x-icon"/>
+</meta></meta></meta></meta></head>
+<body>
+<header class="c-header c-header--transparent">
+<div class="container c-container">
+<div class="c-header--container">
+<figure class="c-header__logo c-figure">
+<a href="/"><img alt="Logo" class="img-fluid" src="/Content/images/svg/togg-logo-new-white.svg"/></a>
+</figure>
+<nav class="c-navigation">
+<ul class="c-navigation__nav">
+<li><a href="/content/kesfet">Keþfet</a></li>
+<li><a href="/content/mobilite-cozumler">Mobilite Çözümleri</a></li>
+<li><a href="/content/otomobil">Otomobil</a></li>
+<li><a href="/content/tedarik">Tedarik</a></li>
+<li><a href="/content/bize-katil">Bize Katýl</a></li>
+<li><a href="/content/basin">Basýn</a></li>
+<li><a href="/content/iletisim">Ýletiþim</a></li>
+</ul>
+<div class="dropdown c-navigation__language">
+<a class="dropdown-toggle" href="/Language/Change?cl=en-US">
+
+                        EN
+
+                    </a>
+</div>
+</nav>
+<a class="c-navigation__toggle" href="javascript:;" id="openMobileMenu" title="Open Menu">
+<div id="mobileMenuChange">
+<div class="c-navigation__bar1"></div>
+<div class="c-navigation__bar2"></div>
+<div class="c-navigation__bar3"></div>
+</div>
+</a>
+</div>
+</div>
+</header>
+<main class="section--home">
+<section class="c-particles-main d-none d-xl-block c-particles--index" id="particles-js" style="background-image: url('/Dosyalar/Showcase/home-banner-web.jpg')"></section>
+<section class="particles-js-mobile d-xl-none c-particles--index" id="particles-js-mobile" style="background-image: url('/Dosyalar/Showcase/home-banner-mobile.jpg')"></section>
+<div>
+<div class="c-particles-container">
+<input id="particlesChange1" type="hidden" value="2,3,4,5,6,7,8,9,1"/>
+<input id="particlesChange2" type="hidden" value="3,4,5,6,7,8,9,1,2"/>
+<input id="particlesChange3" type="hidden" value="4,5,6,7,8,9,1,2,3"/>
+<input id="particlesChange4" type="hidden" value="5,6,7,8,9,1,2,3,4"/>
+<input id="particlesChange5" type="hidden" value="6,7,8,9,1,2,3,4,5"/>
+<input id="particlesChange6" type="hidden" value="7,8,9,1,2,3,4,5,6"/>
+<input id="particlesChange7" type="hidden" value="8,9,9,1,3,4,5,6,7"/>
+<input id="particlesChange8" type="hidden" value="9,1,1,2,4,5,6,7,8"/>
+<ul>
+</ul>
+</div>
+</div>
+<button class="d-none" id="popup-button"></button>
+<!-- Annoucement Modal -->
+<div aria-hidden="true" aria-labelledby="Togg Bilgilendirme Popupý" class="modal fade togg-modal" id="togg-modal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-dialog-centered c-modal-dialog">
+<div class="modal-content c-modal-content togg-modal__content rounded-0">
+<button aria-label="Close" class="close c-modal-video-close text-right" data-dismiss="modal" type="button">
+<span aria-hidden="true">
+<img alt="Close Modal" src="/Content/images/svg/modal-close-white.svg">
+</img></span>
+</button>
+<div class="modal-body c-modal-body togg-modal">
+<div class="togg-modal__desc-bg" style="">
+<div>
+<p>Öneri ve talepleriniz için <a href="mailto:onerivetalep@togg.com.tr" target="_top">onerivetalep@togg.com.tr</a> adresine e-posta gönderebilirsiniz.</p>
+<p>Ýþ baþvurularý için "<a href="https://www.togg.com.tr/content/bize-katil" target="_self">Bize Katýlýn</a>"; tedarikçi olmak için ise "<a href="https://www.togg.com.tr/content/tedarik" target="_self">Tedarik</a>" sekmelerini kullanabilirsiniz.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="c-text-showcase-wrapper">
+<div class="c-text-showcase-big-title">Ýþte Türkiye'nin Otomobili!</div>
+<div class="c-text-showcase-small-title"></div>
+</div>
+<a class="c-btn c-btn--discovery c-btn--discovery-home" href="/content/otomobil">Keþfet</a>
+</main>
+<script type="text/javascript">
+
+    function onSuccess() {
+
+        alert("success")
+
+    }
+
+    function onFailure() {
+
+        console.log("fail");
+
+    }
+
+</script>
+<script src="/bundles/jquery?v=_1T63D9XRhzyhnT-7OJUgA20C_mnIrk86-y4r2em8mI1"></script>
+<script src="/bundles/particles?v=eQPg7FgvrmtNAos0Zq6XeB3UYJiCP49XGGVd9B6JKCo1"></script>
+<script src="/bundles/sitescripts?v=A1t4nZG8NB7RqsUl1esCjAjhhmugMFNSbblMXIVZGwQ1"></script>
+<script async="" defer="" src="https://www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript">
+
+        var currentLang = 'tr-TR';
+
+        var isAnnouncementActive = 'True';
+
+
+
+        /**
+
+        * Car Show Time Counter
+
+        **/
+
+        var clock;
+
+
+
+        // var date = new Date("December 15, 2019 02:15:00"); //Month Days, Year HH:MM:SS
+
+        var date = new Date(" 0, 0 0:0:0");
+
+        var now = new Date();
+
+        var diff = (date.getTime() / 1000) - (now.getTime() / 1000);
+
+
+
+        var clock = $('.clock').FlipClock(diff, {
+
+            clockFace: 'DailyCounter',
+
+            countdown: true,
+
+            language: currentLang == "en-US" ? 'en' : 'tr'
+
+        });
+
+
+
+        if (currentLang == "en-US") {
+
+            $('.clock .flip-clock-divider').addClass("counter-clock-text-en");
+
+        } else {
+
+            $('.clock .flip-clock-divider').addClass("counter-clock-text-tr");
+
+        }
+
+
+
+        /**
+
+        * End Car Show Time Counter
+
+        **/
+
+    </script>
+<div aria-hidden="true" aria-labelledby="KVKK Metni" class="modal fade" id="stakeholderKVKK" role="dialog" tabindex="-1">
+<div class="modal-dialog c-modal-dialog" role="document">
+<div class="modal-content c-modal-content">
+<div class="c-modal-header">
+<h3 class="c-modal-title">
+
+                    Kiþisel  Verilerin Ýþlenmesine Ýliþikin Aydýnlatma Metni
+
+                </h3>
+<button aria-label="Close" class="close text-right" data-dismiss="modal" type="button">
+<img alt="Kapat" class="img-fluid c-modal-close" src="/Content/images/svg/close.svg"/>
+</button>
+</div>
+<section class="c-modal-desc">
+<p align="center"></p>
+<p align="center"><strong>KÝÞÝSEL VERÝLERÝN ÝÞLENMESÝNE ÝLÝÞKÝN AYDINLATMA METNÝ</strong></p>
+<p align="center"><strong>(“Aydýnlatma Metni”)</strong></p>
+<p align="center"></p>
+<p>Türkiye’nin Otomobili Giriþim Grubu Sanayi ve Ticaret A.Þ. (“TOGG”) olarak kiþisel verilerin korunmasýna büyük bir önem vermekteyiz. Bu sebeple iþbu Aydýnlatma Metni ile 6698 Sayýlý Kiþisel Verilerin Korunmasý Kanunu (“Kanun”) kapsamýnda kiþisel verilerinizin ne þekilde ve hangi amaçlar ile iþlendiðini, hukuki nedenleri ve haklarýnýz ile ilgili Veri Sorumlusu olarak sizleri aydýnlatmak istemekteyiz.</p>
+<p><strong>I. </strong> <strong>Veri Sorumlusu</strong></p>
+<p>Kiþisel verileriniz veri sorumlusu sýfatýyla Türkiye’nin Otomobili Giriþim Grubu Sanayi ve Ticaret A.Þ. tarafýndan (“<strong>TOGG</strong>”) iþbu Aydýnlatma Metni’nde belirtilen þekilde toplanacak, saklanacak ve iþlenecektir.</p>
+<p><strong>II. </strong> <strong>Kiþisel Verilerin Ýþlenme Amacý</strong></p>
+<p>Kiþisel verileriniz TOGG tarafýndan hizmet sunulabilmesi ve hizmet alýnabilmesi için gerekli operasyonel faaliyetlerin yürütülmesi, iþ ortaklarýna proaktif bir þekilde ulaþýlabilmesi, tekliflerin alýnabilmesi, gerekli çalýþmalarýn ilgili iþ birimi ve iþ ortaklarý ile yapýlmasý, iþ ortaklarý ve tedarikçi yönetimi, insan kaynaðý yönetiminin gerçekleþtirilmesi, ticari kararlarýn alýnabilmesi, uygulanmasý adýna gerekli her türlü aksiyonun alýnmasý, iþ iliþkisi kurulan gerçek kiþilerin ve TOGG’un bu iliþkiler sebebiyle hukuki güvenliðinin saðlanmasý amacýyla Kanun’un 5. ve 6. maddelerinde belirtilen kiþisel veri iþleme þartlarý ve amaçlarý dahilinde ve Kanun’un çizdiði çerçevede iþlenebilmektedir.</p>
+<p><strong>III. </strong> <strong>Ýþlenen</strong> <strong> Kiþisel Verilerin Kimlere ve Hangi Amaçla Aktarýlabileceði </strong></p>
+<p>Toplanan kiþisel verileriniz, yukarýda belirtilen amaçlarla <a name="_Hlk495308694"></a> yurt içinde veya yurt dýþýnda bulunan hissedarlarýmýza, iþ ortaklarýmýza, tedarikçilerimize, yargý mercileri ve benzeri kanunen yetkili kamu/özel kurum ve kuruluþlarýna, Kanun’un 8. ve 9. maddelerinde belirtilen kiþisel veri iþleme þartlarý ve amaçlarý çerçevesinde ve iþbu Aydýnlatma Metni’nin (II) ve (III). maddelerinde belirtilen amaçlarla sýnýrlý olarak aktarýlabilecektir.</p>
+<p></p>
+<p><strong>IV. </strong> <strong>Kiþisel Veri Toplamanýn Yöntemi ve Hukuki Sebebi</strong> <strong></strong></p>
+<p>Kiþisel verileriniz, TOGG tarafýndan iþbu Aydýnlatma Metni’nde yer verilen amaçlarla kullanýlmak üzere her türlü yazýlý, sözlü, elektronik ortamdan otomatik olan ya da olmayan yöntemlerle toplanabilmektedir. Toplanan kiþisel verileriniz Kanun’un 5. Ve 6. Maddelerinde belirtilen kiþisel veri iþleme þartlarý ve amaçlarý kapsamýnda iþbu Aydýnlatma Metni’nin (II) ve (III). Maddelerinde belirtilen amaçlarla iþlenebilmekte ve aktarýlabilmektedir.</p>
+<p><strong>V. </strong> <strong>Kiþisel Verilerin Saklanma Süresi</strong></p>
+<p><strong> Toplanan kiþisel verileriniz iþbu Aydýnlatma Metni’nde belirtilen amaçlarýn gerektirdiði süre boyunca saklanacaktýr. Ýlaveten, TOGG, veri sahibi ile arasýnda doðabilecek olasý herhangi bir uyuþmazlýða istinaden uyuþmazlýk ile ilgili olarak gerekli savunmalarýn gerçekleþtirilebilmesi amacýyla sýnýrlý olmak üzere ve ilgili mevzuat uyarýnca belirlenen zamanaþýmý süreleri boyunca kiþisel verileri saklayabilecektir. </strong></p>
+<p><strong>VI. </strong> <strong>Kiþisel Verilerin Korunmasýna Yönelik Haklarýnýz</strong></p>
+<p><strong>Kanunun 11. maddesi uyarýnca TOGG’a baþvurarak,</strong></p>
+<ul type="disc">
+<li><strong>Kiþisel verilerinizin iþlenip iþlenmediðini öðrenme,</strong></li>
+<li><strong> Kiþisel verileriniz iþlenmiþse buna iliþkin bilgi talep etme, </strong></li>
+<li><strong> Kiþisel verilerinizin iþlenme amacýný ve bunlarýn amacýna uygun kullanýlýp kullanýlmadýðýný öðrenme, </strong></li>
+<li><strong> Yurt içinde veya yurt dýþýnda aktarýldýðý üçüncü kiþileri bilme, </strong></li>
+<li><strong> Kiþisel verilerin eksik veya yanlýþ iþlenmiþ olmasý halinde bunlarýn düzeltilmesini isteme, </strong></li>
+<li><strong> Kanunun 7. maddesinde öngörülen þartlar çerçevesinde kiþisel verilerinizin silinmesini veya yok edilmesini isteme, </strong></li>
+<li><strong> Yukarýda belirtilen düzeltme, silinme ve yok edilme þeklindeki haklarýnýz uyarýnca yapýlan iþlemlerin, kiþisel verilerin aktarýldýðý üçüncü kiþilere bildirilmesini isteme, </strong></li>
+<li><strong> Ýþlenen kiþisel verilerinizin münhasýran otomatik sistemler ile analiz edilmesi sureti ile aleyhinize bir sonucun ortaya çýkmasýna itiraz etme, </strong></li>
+<li><strong> Kiþisel verilerinizin kanuna aykýrý olarak iþlenmesi sebebiyle zarara uðramanýz hâlinde zararýnýzýn giderilmesini talep etme, </strong></li>
+</ul>
+<p>haklarýna sahip olduðunuzu belirtmek isteriz. Kanun’un 11. maddesi uyarýnca belirtilen haklarýn kullanýlmasýna karþýn, TOGG bu talepleri ilgili mevzuat kapsamýnda deðerlendirme ve olumlu/olumsuz dönüþ yapma hakkýna sahiptir.</p>
+<p class="MsoNormal"><span face="Verdana, sans-serif" style="font-family: Verdana, sans-serif;">Söz konusu haklarýnýza iliþkin taleplerinizi TOGG’un Muallimköy Mahallesi, Deniz Caddesi No:143, Biliþim Vadisi, Gebze/Kocaeli adresine yazýlý olarak veya info@togg.com.tr adresine iletilmesi halinde 30 gün içerisinde deðerlendirilerek sonuçlandýrýlacaktýr.</span></p>
+<p><strong>VII. </strong> <strong>Aydýnlatma Metninde Yapýlacak Deðiþiklikler Güncellemeler</strong></p>
+<p><strong> TOGG, iþbu Aydýnlatma Metni’nde yer alan hükümleri dilediði zaman yayýmlamak suretiyle deðiþtirebilir, güncelleyebilir. TOGG tarafýndan yapýlan deðiþiklik ve güncellemeler deðiþiklik yaptýðý hükümler yayýnlandýðý tarihte yürürlük kazanýr. </strong></p>
+</section>
+</div>
+</div>
+</div>
+<div aria-hidden="true" aria-labelledby="KVKK Metni" class="modal fade" id="employeeKVKK" role="dialog" tabindex="-1">
+<div class="modal-dialog c-modal-dialog" role="document">
+<div class="modal-content c-modal-content">
+<div class="c-modal-header">
+<h3 class="c-modal-title">
+
+                    Çalýþan Adayý Kiþisel Verilerinin Ýþlenmesi Aydýnlatma Metni
+
+                </h3>
+<button aria-label="Close" class="close text-right" data-dismiss="modal" type="button">
+<img alt="Kapat" class="img-fluid c-modal-close" src="/Content/images/svg/close.svg"/>
+</button>
+</div>
+<section class="c-modal-desc">
+<p align="center"><strong> TÜRKÝYE’NÝN OTOMOBÝLÝ GÝRÝÞÝM GRUBU SANAYÝ VE TÝCARET ANONÝM ÞÝRKETÝ </strong></p>
+<p align="center"><strong> ÇALIÞAN ADAYI KÝÞÝSEL VERÝLERÝNÝN KORUNMASI VE ÝÞLENMESÝ AYDINLATMA METNÝ </strong></p>
+<p align="center"></p>
+<p>Kiþisel verileriniz veri sorumlusu sýfatýyla <strong> Türkiye’nin Otomobili Giriþim Grubu Sanayi ve Ticaret Anonim Þirketi </strong> <strong> </strong> (“<strong>Þirket</strong>”) tarafýndan, 6698 sayýlý Kiþisel Verilerin Korunmasý Kanunu (“<strong>Kanun</strong>”) uyarýnca aþaðýda açýklanan kapsamda iþlenebilecektir.</p>
+<p></p>
+<p>Kiþisel verilerinizin Þirketimiz tarafýndan iþlenmesine iliþkin detaylý bilgilere, <a href="https://www.togg.com.tr/Dosyalar/Pdf/kvkk.pdf"> https://www.togg.com.tr/Dosyalar/Pdf/kvkk.pdf </a> internet adresinden kamuoyu ile paylaþýlmýþ olan Türkiye’nin Otomobili Giriþim Grubu Sanayi ve Ticaret Anonim Þirketi Kiþisel Verilerin Korunmasý ve Ýþlenmesi Politikasý’ndan ulaþabilirsiniz. <strong></strong></p>
+<p></p>
+<p><a name="_Hlk522106161"></a> <strong>1. </strong> <strong>Kiþisel Verilerinizin Ýþlenme Amacý</strong></p>
+<p>Toplanan kiþisel verileriniz, Kanun’da öngörülen temel ilkelere uygun olarak ve Kanun’un 5. ve 6. maddelerinde belirtilen kiþisel veri iþleme þartlarý dahilinde Þirketimizin insan kaynaklarý politikalarýnýn ve süreçlerinin planlanmasý ve icra edilmesi, Þirketimizin ve Þirketimizle iþ iliþkisi içerisinde olan ilgili kiþilerin hukuki ve teknik güvenliðinin temini faaliyetlerinin planlanmasý ve icrasý kapsamýnda ve aþaðýda sýralý amaçlarla (“Amaçlar”) iþlenebilecektir.</p>
+<p>· çalýþan adaylarýnýn baþvuru, seçme ve deðerlendirme süreçlerinin yürütülmesi,</p>
+<p>· çalýþan adaylarýnýn yerleþtirilmesi için gerekli iç ve dýþ iletiþim aktivitelerinin gerçekleþtirilmesi,</p>
+<p>· personel temini ve Þirket güvenlik süreçleri için referans veya istihbarat aktivitelerinin yürütülmesi <strong></strong></p>
+<p></p>
+<p><a name="_Hlk522108325"></a> <strong>2. </strong> <strong> Kiþisel Verilerinizin Aktarýldýðý Taraflar ve Aktarým Amaçlarý </strong></p>
+<p>Toplanan kiþisel verileriniz, Kanun’un 8. ve 9. maddelerinde belirtilen kiþisel veri iþleme þartlarýna uygun olarak yukarýda belirtilen Amaçlar’ýn gerçekleþtirilmesi doðrultusunda hissedarlarýmýza, iþ ortaklarýmýza, kanunen yetkili kamu kurumlarýna ve kanunen yetkili özel kiþilere aktarýlabilecektir. <strong></strong></p>
+<p><a name="_Hlk523149827"></a> <strong>3. </strong> <strong> Kiþisel Verilerinizin Toplanma Yöntemi ve Hukuki Sebebi </strong> <a name="_Hlk517817802"></a><strong></strong></p>
+<p>Kiþisel verileriniz Þirketimiz ile temas etmeniz halinde matbu ve çevrimiçi formlar, telefon, açýk internet kaynaklarý, e-posta ve internet sitesi kanallarý vasýtasýyla elektronik ve fiziki ortamdan toplanmaktadýr. Ayrýca, kiþisel verileriniz Kanun’un 5. ve 6. maddelerinde düzenlenen sözleþmenin kurulmasý ve ifasý, meþru menfaat ile bulunmasý halinde açýk rýza hukuki sebeplerine dayalý olarak toplanmaktadýr.</p>
+<p><strong>4. </strong> <strong> Kiþisel Veri Sahibi Olarak Kanun’un 11. Maddesinde Sayýlan Haklarýnýz </strong></p>
+<p>Kiþisel veri sahibi olarak Kanun’un 11. maddesi uyarýnca aþaðýdaki haklara sahip olduðunuzu bildiririz:</p>
+<ul>
+<li>Kiþisel verilerinizin iþlenip iþlenmediðini öðrenme,</li>
+<li>Kiþisel verileriniz iþlenmiþse buna iliþkin bilgi talep etme,</li>
+</ul>
+<p>· Kiþisel verilerinizin iþlenme amacýný ve bunlarýn amacýna uygun kullanýlýp kullanýlmadýðýný öðrenme,</p>
+<p>· Yurt içinde veya yurt dýþýnda kiþisel verilerinizin aktarýldýðý üçüncü kiþileri bilme,</p>
+<p>· Kiþisel verilerinizin eksik veya yanlýþ iþlenmiþ olmasý hâlinde bunlarýn düzeltilmesini isteme ve bu kapsamda yapýlan iþlemin kiþisel verilerinizin aktarýldýðý üçüncü kiþilere bildirilmesini isteme,</p>
+<p>· Kanun’a ve ilgili diðer kanun hükümlerine uygun olarak iþlenmiþ olmasýna raðmen, iþlenmesini gerektiren sebeplerin ortadan kalkmasý hâlinde kiþisel verilerin silinmesini veya yok edilmesini isteme ve bu kapsamda yapýlan iþlemin kiþisel verilerinizin aktarýldýðý üçüncü kiþilere bildirilmesini isteme,</p>
+<p>· Ýþlenen verilerin münhasýran otomatik sistemler vasýtasýyla analiz edilmesi suretiyle aleyhinize bir sonucun ortaya çýkmasý durumunda buna itiraz etme,</p>
+<p>· Kiþisel verilerinizin kanuna aykýrý olarak iþlenmesi sebebiyle zarara uðramanýz hâlinde zararýn giderilmesini talep etme.</p>
+<p>Yukarýda sýralanan haklarýnýza yönelik baþvurularýnýzý, <a href="https://www.togg.com.tr/Dosyalar/Pdf/togg-veri-sahibi-basvuru-formu.pdf"> https://www.togg.com.tr/Dosyalar/Pdf/togg-veri-sahibi-basvuru-formu.pdf </a> <strong> </strong> adresinden ulaþabileceðiniz Veri Sahibi Baþvuru Formu’nu doldurarak Þirketimize iletebilirsiniz. Talebinizin niteliðine göre en kýsa sürede ve en geç otuz gün içinde baþvurularýnýz ücretsiz olarak sonuçlandýrýlacaktýr; ancak iþlemin ayrýca bir maliyet gerektirmesi halinde Kiþisel Verileri Koruma Kurulu tarafýndan belirlenecek tarifeye göre tarafýnýzdan ücret talep edilebilecektir.</p>
+</section>
+</div>
+</div>
+</div>
+<div class="cookie-band cookie-band--bottom cookie-bg--black" id="cookieBand">
+<div class="container">
+<div class="cookie-band__inner">
+<div class="cookie-band__text">
+
+                    
+
+                    
+
+                    
+
+                       Ýnternet sitemizin iþletimi sýrasýnda çerez ve benzeri teknolojiler kullanýlmaktadýr. Bazý çerezlerin kullanýlmasý bu internet sitesinin size sunulmasý için teknik olarak zorunludur. Çerezler hakkýnda detaylý bilgi almak için
+
+                       <a class="cookie-band-read cookie-band-read--blue" href="https://togg.com.tr/Dosyalar/Pdf/cerez-aydinlatma-metni.pdf" target="_blank">Çerez Aydýnlatma Metni</a>’ni incelemenizi rica ederiz.
+
+                    
+
+                    <a class="c-btn c-btn--cookie c-btn--cookie-pos" data-role="cookie" href="javascript:;" id="cookieBandAccept">Çerezleri Kabul Et</a>
+</div>
+<a class="cookie-band__btn" data-role="cookie" href="javascript:;">
+<img alt="Close Cookie" src="/Content/images/cookie-close.svg"/>
+</a>
+</div>
+</div>
+</div>
+</body>
+</html>
